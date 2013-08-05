@@ -3,13 +3,13 @@ PODS:
 
 DEPENDENCIES:
   - ExampleLib
-  - ExampleLib (from `../`)
+  - ExampleLib (from `../Podspec`)
 
 EXTERNAL SOURCES:
   ExampleLib:
-    :path: ../
+    :path: ../Podspec
 
 SPEC CHECKSUMS:
-  ExampleLib: b469a79e86834d88241d1494a1aff98e15770878
+  ExampleLib: 01d0048f9e947c6b5d4e9bdf2bac1c4863fdb0af
 
-COCOAPODS: 0.20.1
+COCOAPODS: 0.23.0.rc1
